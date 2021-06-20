@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Get list of currencies by Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35f14963-5fe8-4de2-a62a-c0e1a16616c7</testCaseGuid>
+</TestCaseEntity>
