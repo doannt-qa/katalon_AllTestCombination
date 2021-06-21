@@ -149,6 +149,8 @@
 			<attribute name="javadoc_location" value="file:/D:/Tools/Katalon_Studio_Windows_64-8.0.5/Katalon_Studio_Windows_64-8.0.5/configuration/resources/apidocs/com.kms.katalon.core.testng/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/Tools/Katalon_Studio_Windows_64-8.0.5/Katalon_Studio_Windows_64-8.0.5/configuration/org.eclipse.osgi/26/0/.cp/resources/basic-report/katalon-studio-report-plugin.jar"/>
+	<classpathentry kind="lib" path="D:/Tools/Katalon_Studio_Windows_64-8.0.5/Katalon_Studio_Windows_64-8.0.5/configuration/org.eclipse.osgi/26/0/.cp/resources/applitools/katalon-studio-applitools-plugin.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

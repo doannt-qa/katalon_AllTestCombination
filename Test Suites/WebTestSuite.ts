@@ -22,5 +22,26 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Web/2. Create an appointment successfull</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>061e9fe1-e03e-447b-93d7-452904af66a6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/WebTestData</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>061e9fe1-e03e-447b-93d7-452904af66a6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Date</value>
+         <variableId>7b2c9e13-f67f-44c8-b454-9c73f68963fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>061e9fe1-e03e-447b-93d7-452904af66a6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Comment</value>
+         <variableId>d63bcbd4-5e22-445b-875d-68796b3985d7</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

@@ -25,14 +25,16 @@ WebUI.click(findTestObject('Web/Page_CURA Healthcare Service/input_Medicaid_prog
 
 WebUI.click(findTestObject('Web/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'))
 
-WebUI.sendKeys(findTestObject('Web/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'), '01/01/2021')
+WebUI.sendKeys(findTestObject('Web/Page_CURA Healthcare Service/input_Visit Date (Required)_visit_date'), date)
 
 WebUI.click(findTestObject('Web/Page_CURA Healthcare Service/textarea_Comment_comment'))
 
-WebUI.sendKeys(findTestObject('Web/Page_CURA Healthcare Service/textarea_Comment_comment'), 'Nothing')
+WebUI.sendKeys(findTestObject('Web/Page_CURA Healthcare Service/textarea_Comment_comment'), comment)
 
 WebUI.click(findTestObject('Web/Page_CURA Healthcare Service/button_Book Appointment'))
 
 WebUI.verifyElementPresent(findTestObject('Web/Page_CURA Healthcare Service/p_Please be informed that your appointment has been booked as following'), 
     0)
+
+WebUI.click(findTestObject('Web/Page_CURA Healthcare Service/a_Go to Homepage'))
 

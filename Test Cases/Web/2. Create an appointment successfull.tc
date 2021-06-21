@@ -5,4 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>511e6406-e047-4bb8-956f-aabb2b5e81da</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b2c9e13-f67f-44c8-b454-9c73f68963fa</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d63bcbd4-5e22-445b-875d-68796b3985d7</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
 </TestCaseEntity>
