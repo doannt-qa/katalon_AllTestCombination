@@ -38,3 +38,5 @@ WebUI.verifyElementPresent(findTestObject('Web/Page_CURA Healthcare Service/p_Pl
 
 WebUI.click(findTestObject('Web/Page_CURA Healthcare Service/a_Go to Homepage'))
 
+WebUI.verifyCheckpoint(findCheckpoint('Checkpoints/Checkpoint'), false)
+
